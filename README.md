@@ -6,3 +6,5 @@
 - Сменить картинку фона главного заголовка можно через html, без использования css, что удобно при переносе сайта на CMS и дальнейшем обслуживании.
 
 [ссылка на результат](https://aleksryz.github.io/activeBox/)
+
+![ActiveBox1](https://user-images.githubusercontent.com/89943908/196040974-e60e145d-d6c2-4488-a4fb-33aecc3b42d5.jpg)
